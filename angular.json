@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "component-lifecycle"
+    }
+  },
+  "defaultProject": "component-lifecycle",
+  "cli": {
+    "analytics": false
+  }
 }
